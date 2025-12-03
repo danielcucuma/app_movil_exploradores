@@ -60,3 +60,4 @@ Una aplicación móvil desarrollada en Flutter para gestionar registros de explo
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
+ 
